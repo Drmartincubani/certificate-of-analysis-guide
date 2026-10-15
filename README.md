@@ -263,4 +263,3 @@ A: Request a complete CoA that includes impurity data. A purity percentage witho
 
 This content is provided for educational purposes. Feel free to use and share these resources, but please credit the original source.
 
-*Last updated: October 2026*
